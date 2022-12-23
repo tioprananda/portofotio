@@ -1,4 +1,4 @@
-# portofotio
+# portotio
 
 ## Project setup
 ```

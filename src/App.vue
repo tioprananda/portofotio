@@ -188,7 +188,7 @@
               <div class="bg-white lg:w-1/3 w-1/2 absolute -top-2 -left-2 rounded-xl lg:rounded-none border border-solid border-text overflow-hidden shadow-div shadow-md"><h1 class="text-div font-neue text-center te lg:text-xsxt-sm p-1 m-auto lg:text-xs">cashier desktop app - login form</h1></div>
             </div>
         </div>
-           <div class="relative w-full h-full transition ease-in-out duration-[2000ms] lg:w-full xl:w-[49%] hover:z-10x lg:mt-10"  ref="kasirGallery" :class="paraGallery">
+           <div class="relative w-full h-full transition ease-in-out duration-[2000ms] lg:w-full xl:w-[49%] hover:z-10 lg:mt-10"  ref="kasirGallery" :class="paraGallery">
             <div class="w-full h-60 flex flex-wrap justify-center overflow-hidden bg-div lg:overflow-visible lg:hover:scale-110 transition lg:hover:scale-110 lg:transition lg:ease-in-out lg:duration-300">
                <img src="./assets/kasir/2.home.png" alt="" class="w-full h-full grayscale transition ease-in-out duration-500 hover:scale-105 hover:grayscale-0">
               <div class="bg-white lg:w-1/3 w-1/2 absolute -top-2 -left-2 rounded-xl lg:rounded-none border border-solid border-text overflow-hidden shadow-div shadow-md"><h1 class="text-div font-neue text-center text-sm p-1 m-auto lg:text-xs">cashier desktop app - home page</h1></div>
